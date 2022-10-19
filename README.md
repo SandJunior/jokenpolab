@@ -2,12 +2,19 @@
 
 O trabalho consiste em dois códigos do jogo "Jokenpô" na linguagem C. Um código contém o tradicional Jokenpô e a sua branch contém uma variação dele, o Pedra-Papel-Tesoura-Lagarto-Spock.
 
-## Sobre o tradicional Jokenpô
+## Sobre a variação Lagarto-Spock
 
-O tradicional Pedra, Papel e Tesoura consiste numa escolha entre três opções, e as escolhas resultam em:
+Diferente do tradicional Jokenpô, a variação Pedra-Papel-Tesoura-Lagarto-Spock consiste na adição de novas duas opções de escolha (lagarto e Spock), escolhas essas que aumentam a variedade de embates e dificulta o empate. As escolhas resultam em:
 - Pedra ganha da tesoura;
 - Tesoura ganha do papel;
 - Papel ganha da pedra;
+- Pedra ganha do lagarto;
+- Lagarto ganha do Spock;
+- Spock ganha da tesoura;
+- Tesoura ganha do lagarto;
+- Lagarto ganha do papel;
+- Papel ganha do Spock;
+- Spock ganha da pedra;
 - Escolha igual entre o jogador e o computador resulta em um empate.
 
 ## Sobre o código
@@ -19,4 +26,4 @@ O tradicional Pedra, Papel e Tesoura consiste numa escolha entre três opções,
 
 ## Última atualização
 
-19 de outubro de 2022, às 16:50.
+19 de outubro de 2022, às 17:21.
